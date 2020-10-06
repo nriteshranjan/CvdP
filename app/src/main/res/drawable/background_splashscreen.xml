@@ -5,7 +5,7 @@
     <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/splashlogo" />
+            android:src="@drawable/coronavirus" />
     </item>
 
 </layer-list>
